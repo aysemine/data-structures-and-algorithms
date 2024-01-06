@@ -77,6 +77,7 @@ int main() {
 
     printf("Sorted array: ");
     printArray(arr, arrSize);
+    printf("O(nlogn) ");
 
     return 0;
 }
