@@ -35,6 +35,9 @@ int main() {
     
     printf("Sorted Array: ");
     printArray(arr, n);
+    printf("Best Case: O(n)
+        Worst Case: O(n^2)
+        Average Case: O(n^2) ");
 
     return 0;
 }
